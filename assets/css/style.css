@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 9999;
-  background: #d43076;
+  background: #008080;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #db528c;
+  background: #ffa500;
   color: #fff;
 }
 
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #d43076;
+  color: #ffa500;
 }
 
 .navbar .dropdown ul {
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #d43076;
+  color: #ffa500;
 }
 
 .navbar .dropdown:hover > ul {
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #d43076;
+  color: #ffa500;
 }
 
 .navbar-mobile .getstarted {
@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #d43076;
+  color: #ffa500;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -339,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-get-started:hover {
   padding-top: 10px;
-  color: #d43076;
+  color: #ffa500;
 }
 
 @media (min-width: 1024px) {
@@ -390,7 +390,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #d43076;
+  background: #ffa500;
   bottom: 0;
   left: 0;
 }
@@ -578,7 +578,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #d43076;
+  border-left: 2px solid #ffa500;
   position: relative;
 }
 
@@ -621,7 +621,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #d43076;
+  border: 2px solid #ffa500;
 }
 
 /*--------------------------------------------------------------
@@ -651,7 +651,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #d43076;
+  background: #ffa500;
   height: 100%;
   border-radius: 0px;
 }
@@ -664,7 +664,7 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: #d43076;
+  background: #ffa500;
   transition: all 0.3s ease-in-out;
 }
 
@@ -699,7 +699,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #d43076;
+  color: #ffa500;
 }
 
 @media (max-width: 768px) {
@@ -740,7 +740,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #d43076;
+  color: #ffa500;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -852,11 +852,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #d43076;
+  border: 1px solid #ffa500;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d43076;
+  background-color: #ffa500;
 }
 
 .portfolio-details .portfolio-info {
@@ -967,11 +967,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #d43076;
+  border: 1px solid #ffa500;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d43076;
+  background-color: #ffa500;
 }
 
 @media (max-width: 767px) {
@@ -991,7 +991,7 @@ section {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #d43076;
+  color: #ffa500;
 }
 
 .contact .contact-about p {
@@ -1009,7 +1009,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #d43076;
+  color: #ffa500;
   line-height: 0;
   padding: 8px 0;
   margin-right: 4px;
@@ -1018,11 +1018,11 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #d43076;
+  border: 1px solid #ffa500;
 }
 
 .contact .social-links a:hover {
-  background: #d43076;
+  background: #ffa500;
   color: #fff;
 }
 
@@ -1032,7 +1032,7 @@ section {
 
 .contact .info i {
   font-size: 32px;
-  color: #d43076;
+  color: #ffa500;
   line-height: 0;
   margin-right: 15px;
 }
@@ -1091,11 +1091,11 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #d43076;
+  border-color: #ffa500;
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #d43076;
+  background: #ffa500;
   border: 0;
   padding: 10px 24px;
   color: #fff;
